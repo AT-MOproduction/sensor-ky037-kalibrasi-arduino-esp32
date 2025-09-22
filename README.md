@@ -3,8 +3,6 @@ ESP32 + KY-037 — Web dB Monitor (Kalibrasi Decibel X app ios)
 Monitor level suara berbasis ESP32 DevKit dan sensor KY-037 dengan web UI sederhana.
 Skala dB dikalibrasi satu tombol menggunakan angka dari aplikasi Decibel X di HP.
 
-<p align="center"> <img src="esp32/assets/wiring_esp32.png" width="720" alt="Wiring ESP32 - KY-037"> </p>
-
 Status: Stable • Board: ESP32 DevKit 38-pin • UI: HTTP (tanpa library tambahan)
 
 Fitur Utama
